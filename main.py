@@ -44,7 +44,7 @@ WINNER_FONT = pygame.font.SysFont('comicsans', 100)
 #BULLET_HIT_SOUND = pygame.mixer.Sound('HIT.ogg')
 #BULLET_FIRE_SOUND = pygame.mixer.Sound('GUN_FIRE.ogg')
 
-# | audio having problems, couldn't find the problem even after diagnosing and following pygame docs
+# | ignore - how the hell do you use audios with pygame like what
 
 #| Scale
 SS_WIDTH, SS_HEIGHT = 55,40 # Spaceship Height and Width
