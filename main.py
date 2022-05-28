@@ -5,7 +5,6 @@ pygame.font.init()
 pygame.mixer.init()
 
 
-# https://www.youtube.com/watch?v=jO6qQDNa2UY - Finished
 # WINDOW
 
 WIDTH, HEIGHT = 900, 500 # Width and Height
