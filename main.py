@@ -9,7 +9,7 @@ pygame.mixer.init()
 
 WIDTH, HEIGHT = 900, 500 # Width and Height
 WIN = pygame.display.set_mode((WIDTH, HEIGHT)) # Creating window with Width and Height
-pygame.display.set_caption("Space Game") # Settings title/caption
+pygame.display.set_caption("Space Game - a.0.01") # Settings title/caption
 FPS = 60 # Frames Per Second
 SPLITBORDER = pygame.Rect(WIDTH//2, 0, 10, HEIGHT) # Border
 BGM = pygame.mixer.music.load('Assets/BG.wav') # Background Music
